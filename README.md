@@ -1,23 +1,11 @@
-<div align="center" style="border-radius: 5px; width:fit; height:120px; background-position: center center; background: linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.5)), url('https://cdnb.artstation.com/p/assets/images/images/035/661/039/large/ram-dedomo-toys-new.jpg?1615548135')
- no-repeat 95% 75%; background-size: 100%; background-opacity: 0;">
-</div>
-
-<div style="
-font-size: 25px;
-font-weight: 700;
-color: #fafafa;
--webkit-text-stroke: 0.5px #1e1e1e;
-text-shadow: 1px 1px 1px #1e1e1e,
-1px 2px 1px #1e1e1e,
-1px 3px 1px #1e1e1e,
-1px 4px 1px #1e1e1e,
-1px 12px 10px rgba(16,16,16,0.2),
-1px 25px 35px rgba(16,16,16,0.2);"align="center">Hi There 👋🏽, I'm Ram Wendel Dedomo.</div>
+<h3 align="center">Hi There 👋🏽, I'm Ram Wendel Dedomo.</h3>
+<h1 style="opacity: 0.1"></h1>
 
 - 🌱 3D Artist and Web Developer
 - 👀 Currently learning React and other stuff
+<h1 style="opacity: 0.1"></h1>
 
-<div align="left" style="margin-top: 10px; background-color: #1e1e1e; border-radius: 5px; padding-left: 10px; border-bottom: 1px solid #fafafa">⚙️ Techs </div>
+⚙️ Techs
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="javascript logo"  />
@@ -66,14 +54,17 @@ text-shadow: 1px 1px 1px #1e1e1e,
   <img width="0" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" alt="vscode logo"  />
 </div>
+<h1 style="opacity: 0.1"></h1>
 
-<div align="left" style="background-color: #1e1e1e; border-radius: 5px; padding-left: 10px; border-bottom: 1px solid #fafafa">🖥️ Projects</div>
+🖥️ Projects
+
+
 
 <div align="center">
     <div>
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=ramdedomo&repo=panunote_livewire&theme=dark#gh-dark-mode-only" height="120" alt="streak graph"  />
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=ramdedomo&repo=supplium_powergrid&theme=dark#gh-dark-mode-only" height="120" alt="streak graph"  />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdedomo&layout=compact&theme=dark#gh-dark-mode-only" height="120" alt="language graph"  />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=ramdedomo&repo=panunote_livewire&theme=dark#gh-dark-mode-only" height="90" alt="streak graph"  />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=ramdedomo&repo=supplium_powergrid&theme=dark#gh-dark-mode-only" height="90" alt="streak graph"  />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=ramdedomo&repo=galilamapandan&theme=dark#gh-dark-mode-only" height="90" alt="streak graph"  />
     </div>
 </div>
 <h1 style="opacity: 0.1"></h1>
@@ -86,6 +77,7 @@ text-shadow: 1px 1px 1px #1e1e1e,
     <img src="https://img.shields.io/badge/Artstation-0A66C2?logo=artstation&logoColor=black&style=social" alt="facebook logo"  />
   </a>
 </div>
+
 <div align="center" style="font-size: 30px;">
 ...
 </div>
