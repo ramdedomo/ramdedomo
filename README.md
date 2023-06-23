@@ -1,9 +1,11 @@
-<h3 align="center">Hi There 👋🏽, I'm Ram Wendel Dedomo.</h3>
-<h1 style="opacity: 0.1"></h1>
 
-- 🌱 3D Artist and Web Developer
-- 👀 Currently learning React and other stuff
-<h1 style="opacity: 0.1"></h1>
+
+<div align="center">
+  <h2 align="center">Hi There 👋🏽, I'm Ram Dedomo</h2>
+  <i >Im a  3D Artist and Web Developer. Currently learning React and other stuff 👀</i>
+</div>
+
+
 
 ⚙️ Techs
 
@@ -42,6 +44,8 @@
   <img width="0" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="mysql logo"  />
   <img width="0" />
+  <img src="https://img.shields.io/badge/HugginFace-27272a?logo=data:image/png;base64,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"/>
+  <img width="0" />
   <img src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=black&style=flat" alt="cucumber logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=black&style=flat" alt="cypress logo"  />
@@ -56,20 +60,7 @@
 </div>
 <h1 style="opacity: 0.1"></h1>
 
-🖥️ Projects
-
-
-
 <div align="center">
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=ramdedomo&repo=panunote_livewire&theme=dark#gh-dark-mode-only" height="90" alt="streak graph"  />
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=ramdedomo&repo=supplium_powergrid&theme=dark#gh-dark-mode-only" height="90" alt="streak graph"  />
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=ramdedomo&repo=galilamapandan&theme=dark#gh-dark-mode-only" height="90" alt="streak graph"  />
-    </div>
-</div>
-<h1 style="opacity: 0.1"></h1>
-
-<div align="center" style="margin-top: 10px">
   <a href="https://www.linkedin.com/in/ramdedomo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=black&style=social" alt="linkedin logo"  />
   </a>
@@ -78,6 +69,13 @@
   </a>
 </div>
 
-<div align="center" style="font-size: 30px;">
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=your-github-username&color=f59e0b" alt="facebook logo"  />
+</div>
+
+
+<div align="center">
 ...
 </div>
+
+
