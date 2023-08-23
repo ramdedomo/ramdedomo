@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2 align="center">Hi There 👋🏽, I'm Ram Dedomo</h2>
-  <i >Im a  3D Artist and Web Developer. Currently learning React and other stuff 👀</i>
+  <i >Im a  3D Artist and Web Developer.</i>
 </div>
 
 
