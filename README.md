@@ -67,6 +67,9 @@
 <a href="https://ramdedomo.artstation.com/" target="_blank">
     <img src="https://img.shields.io/badge/Artstation-0A66C2?logo=artstation&logoColor=black&style=social" alt="facebook logo"  />
   </a>
+  <a href="https://www.behance.net/ramdedomo/" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-0057ff?logo=behance&logoColor=black&style=social" alt="facebook logo"  />
+  </a>
 </div>
 
 <div align="center">
